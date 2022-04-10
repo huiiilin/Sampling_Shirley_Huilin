@@ -1,3 +1,3 @@
-# Sampling_Shirley_Huilin
+# Chi-square_Shirley_Huilin
 
-In this app, we will explain, teach, and compare how simple random and stratified sampling works. With a data contains birth rate, death rate, unemployment rate for each U.S state.
+In this app, we will introduce chi-square goodness-fit-test with examples.
